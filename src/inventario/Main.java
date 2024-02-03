@@ -5,7 +5,7 @@ import java.util.*;
  * PROGRAMA PARA EL CALCULO Y MANEJO DE INVENTARIO.
  * Clase que el vendedor del producto desea ejecutar.
  * @author PedroArango
- *
+ *ANY COMMENTS OR SUGGESTIONS, PLEASE CONTACT ME.
  */
 public class Main {
 	
