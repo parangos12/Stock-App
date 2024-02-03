@@ -122,7 +122,7 @@ public class CalculosVentas {
 	public void productoMayorMenorVenta() {
 		Producto productoMayorVenta=productos[0];
 		Producto productoMenorVenta=productos[0];
-		//Ciclo para Mayor venta
+		//Ciclo para Mayor venta de todo
 		for (int i = 0; i < productos.length; i++) {
 			if(productos[i].getValorVenta()>productoMayorVenta.getValorVenta()) {
 				productoMayorVenta=productos[i];
